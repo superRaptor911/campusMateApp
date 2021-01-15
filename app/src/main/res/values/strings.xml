@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CampusMate</string>
+    <string name="login">Login</string>
+    <string name="CSE">CSE</string>
+    <string name="IT">IT</string>
+    <string name="CIVIL">CIVIL</string>
+    <string name="MECH">Mechanical</string>
+    <string name="ECE">ECE</string>
+    <string name="EEE">EEE</string>
+</resources>
